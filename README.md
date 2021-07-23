@@ -30,7 +30,7 @@
 
 </div>
 <br>
-백엔드와 ML 엔지니어로 기술 스택을 쌓아가고 있습니다
+안녕하세요. 언젠간 풀스택 개발자가 되고 싶은 정민채입니다.
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jungminchae&show_icons=true&hide=issues,prs)
